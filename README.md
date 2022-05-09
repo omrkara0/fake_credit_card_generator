@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for creating fake credit cards.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_2](https://user-images.githubusercontent.com/63900364/167471409-51e89d48-92e7-434c-ae2f-98a4e0a3c8ee.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/63900364/167471417-dd806346-3a25-4305-b6c2-01064631a36c.png)
